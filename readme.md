@@ -7,7 +7,9 @@ Author: Vladimir Kheifets <vladimir.kheifets.@online.de>
 Copyright &copy; 2023 Vladimir Kheifets All Rights Reserved
 
 The class provides a solution to one task of the GCHQ 2023 Christmas competition.
+
 [https://www.gchq.gov.uk/files/2023%20GCHQ%20Christmas%20Challenge.pdf"](2023 GCHQ Christmas Challenge.pdf)
+
 (GCHQ - UK's intelligence, security and cyber agency)
 
 ```
@@ -22,8 +24,11 @@ Demo
 [https://www.alto-booking.com/developer/columnOperations/](https://www.alto-booking.com/developer/lettersDecode/)
 
 ### 1. Properties of the class lettersDecode
+
 lettersCode - (array) сodes of Letter
+
 endResNum - (integer) result RE * RE
+
 endResLetter - (string) encoded result RE * RE
 
 ### 2 Quellcodes in PHP und CSS
