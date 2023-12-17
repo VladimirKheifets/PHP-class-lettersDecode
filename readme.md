@@ -8,9 +8,9 @@ Copyright &copy; 2023 Vladimir Kheifets All Rights Reserved
 
 The class provides a solution to one task of the GCHQ 2023 Christmas competition.
 
-[https://www.gchq.gov.uk/files/2023%20GCHQ%20Christmas%20Challenge.pdf](https://www.gchq.gov.uk/files/2023%20GCHQ%20Christmas%20Challenge.pdf)
-
 (GCHQ - UK's intelligence, security and cyber agency)
+
+[https://www.gchq.gov.uk/files/2023%20GCHQ%20Christmas%20Challenge.pdf](https://www.gchq.gov.uk/files/2023%20GCHQ%20Christmas%20Challenge.pdf)
 
 ```
     Each letter represents a different digit:
