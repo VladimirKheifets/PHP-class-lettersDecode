@@ -31,7 +31,7 @@ endResNum - (integer) result RE * RE
 
 endResLetter - (string) encoded result RE * RE
 
-### 2 Quellcodes in PHP und CSS
+### 2 Quellcodes in PHP
 
 ### 2.1 File index.php
 ```php
